@@ -15,7 +15,7 @@
 
 - Run `npm run dev``
 
-## Intaling Tailwind
+## Installing Tailwind
 
 Follow steps from page [Install Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
 
@@ -65,3 +65,36 @@ https://learntypescript.dev/
 - Unknown: it is similar to the any type but is type-safe. It is required to validate the input when using unKnown types.
 
 -Enum: represents named constants. Enum values are zero-based auto-incrementing numbers by default.
+
+## Interfaces
+
+```
+    interface ButtonProps {
+    text: string,
+    onClick: () => void
+    }
+```
+
+# Extending interfaces
+
+Interfaces can extend other interfaces to inherit all the properties and methods from the interface being extended
+
+```
+interface InterfaceA extends InterfaceB {
+    ...
+}
+```
+
+## Interface for functions
+
+```
+interface Log {
+  (message: string): void
+}
+
+const log: Log = (message: string) => {
+  console.log(message);
+}
+```
+
+The interface called Log represents the arrow function log.
