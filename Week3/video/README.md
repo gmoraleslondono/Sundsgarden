@@ -1,7 +1,5 @@
 # NOTES
 
-[week 3 Typescript and React](https://www.youtube.com/watch?v=j6wqBRdH5bg)
-
 ##create a React project
 
 - Run `npm create vite@latest`
@@ -98,3 +96,7 @@ const log: Log = (message: string) => {
 ```
 
 The interface called Log represents the arrow function log.
+
+## Tutorial link
+- Typescript and React: https://www.youtube.com/watch?v=j6wqBRdH5bg
+- Lesson 3 Vanilla JS to React: https://www.youtube.com/watch?v=kOLLHTjYYAs
