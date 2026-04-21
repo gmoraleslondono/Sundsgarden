@@ -1,3 +1,11 @@
+# Week 9
+
+## Tutorial link
+
+- start building APIs and testing API endpoints with Insomnia: https://www.youtube.com/watch?v=jzgUvkgwQR8
+- HTTP Methods and RESTful APIs: https://www.youtube.com/watch?v=Z85L2i0atlk
+  
+
 # Build and test APIs
 
 * Create a project  
