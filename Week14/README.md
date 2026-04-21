@@ -5,3 +5,6 @@ CRUD application with PostgreSQL databases and pgAdmin.
 
 ## NodeJS and MongoDB and Mongo Express
 Learn to intall and config Mongoose
+
+## MongoDB Mongoose Express and Docker
+Tutorial link: https://www.youtube.com/watch?v=hhsKANNQBDg
