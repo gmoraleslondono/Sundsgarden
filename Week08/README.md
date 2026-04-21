@@ -1,5 +1,6 @@
 ## Tutorial link
-- https://www.youtube.com/watch?v=-AOP0Mo823c
+- What to think of when starting a new project: https://www.youtube.com/watch?v=-AOP0Mo823c
+- Project: Local Travel & Weather Dashboard: https://www.youtube.com/watch?v=wR4VN1hDXcU
 
 ### What to think when starting a new project?
 - Who is this project for? Build an understanding of their needs, ask question, and ask questions
